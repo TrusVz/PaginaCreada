@@ -52,7 +52,7 @@ header .logo{
 }
 
 span{
-    color: #ffd100;
+    color: #fbfbfb;
 }
 .container .banner .detail{
     position: absolute;
@@ -69,7 +69,7 @@ span{
     box-shadow: 0 50px 50px #0000004a;
 }
 .container .banner .detail .info h2{
-    color: #ffd100;
+    color: #fbfbfb;
     font-weight: bold;
     font-size: 25px;
 }
